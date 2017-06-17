@@ -1,0 +1,19 @@
+{
+  "name": "cabodyshop",
+  "version": "1.0.0",
+  "description": "simple site for cabody shop using bootstrap template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingPra/caBodyShop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingPra/caBodyShop/issues"
+  },
+  "homepage": "https://github.com/KingPra/caBodyShop#readme"
+}
